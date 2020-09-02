@@ -4,4 +4,4 @@ This repository is about basic codes in R while I learned duering Computational 
 
 lab1: complex numbers and Decimal number conversion in R.
 
-lab2:
+lab2: linear regression using R on iris Data set
