@@ -4,5 +4,5 @@ This repository is about basic codes in R while I learned duering Computational 
 
 lab1: complex numbers and Decimal number conversion in R.
 
-lab2: codes for using dataframes in R
+lab2: about dataframes in R
 
