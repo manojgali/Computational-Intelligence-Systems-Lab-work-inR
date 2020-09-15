@@ -7,8 +7,8 @@ irisclass <- iris[,"Species"]
 head(irisdata)
 head(irisclass)
 result <- kmeans(irisdata,3)
-result$size
-result$cluster
+result$size  #gives the sizes of cluster
+result$cluster # array of points mapping to cluster
 
 par(mfrow=c(2,2),mar=c(5,4,2,2))
 plot(irisdata[c(1,2)],col=result$cluster)
